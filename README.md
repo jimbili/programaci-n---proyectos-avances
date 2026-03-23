@@ -1,7 +1,7 @@
 # programacion-proyectos-avances
 Repositorio de proyectos y laboratorios de programación aplicados a la ciberseguridad, documentando mi proceso de aprendizaje y desarrollo de herramientas técnicas. 
 # Programación aplicada a la Ciberseguridad
-Este repositorio da cuenta de mi progreso técnico , desde fundamentos de scripting hasta herramientas automatizadas de seguridad. Mi objetivo es desarrollar soluciones eficientes que faciliten el análisis de vulnerabilidades y la gestión de redes. ¡Acompáñame en este proceso! 
+Este repositorio da cuenta de mi progreso técnico, desde fundamentos de scripting hasta herramientas automatizadas de seguridad. Mi objetivo es desarrollar soluciones eficientes que faciliten el análisis de vulnerabilidades y la gestión de redes. ¡Acompáñame en este proceso! 
 ---
 ## Estructura del Repositorio 
 A fin de mantener el orden, claridad y por su puesto, cronología, el Repositorio se divide en: 
@@ -26,4 +26,4 @@ A fin de mantener el orden, claridad y por su puesto, cronología, el Repositori
    * **Estado actual:** Documentando laboratorios de fundamentos de Python.
    ---
    ### DISCLAIMER
-   El código quí contenido **tiene fines estrictamente educativos**. Se deslinda responsabilidad del mal uso de las herramientas aquí presentadas. 
+   El código aquí contenido **tiene fines estrictamente educativos**. Se deslinda responsabilidad del mal uso de las herramientas aquí presentadas. 
