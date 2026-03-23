@@ -14,7 +14,7 @@ A fin de mantener el orden, claridad y por su puesto, cronología, el Repositori
    * **Network Labs:** Scripts de interacción con protocolos de red.
   
    ---
-   ##Tecnologías utilizadas
+   ## Tecnologías utilizadas
    - **Lenguajes:** Python, Bash.
    - **Entornos:** Linux (Kali/Ubuntu), VS Code.
    - **Librerías clave:** 'requests', 'socket', 'scapy' (en desarrollo).
