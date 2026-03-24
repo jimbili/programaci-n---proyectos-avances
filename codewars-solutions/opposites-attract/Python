@@ -1,0 +1,25 @@
+# Codewars Kata: Opposites Attract
+
+### Detalle del Reto
+- **Nivel:** 8 kyu
+- **Lenguaje:** Python 3.11
+- **Conceptos Clave:** Operadores aritméticos (módulo ''%'), lógica condicional ('if/elif/else'), funciones.
+Enunciado y Solución
+
+Aquí presento una captura de pantalla que muestra el enunciado original del reto y mi solución implementada con comentarios explicativos.
+
+### Reflexión Técnica
+
+#### ¿Qué aprendí o reforcé en este reto?
+
+1.  **El operador Módulo `%`:** Es fundamental en programación para detectar si un número es par o impar. Al hacer 'numero % 2', si el resultado es '0', el número es par; si es '1', es impar.
+2.  **Lógica Booleana:** Reforcé cómo estructurar condicionales para evaluar dos variables simultáneamente usando los operadores lógicos 'and'.
+3.  **Comentarios como Documentación:** En mi código, usé comentarios claros para explicar cada "caso" antes de la lógica. Esto es crucial para un analista, ya que hace el código mantenible por otros, es decir, los comentarios permitirán la réplica o entendimeinto del código. 
+
+---
+
+### Visión de Ciberseguridad
+
+En un entorno de seguridad real, este tipo de validaciones lógicas son la base para construir **reglas de filtrado de tráfico** o **validación de entradas de usuario**.
+
+Por ejemplo, al validar que un usuario ingresa un número de tarjeta de crédito (o un ID de empleado) con la estructura correcta, se previene que un atacante envíe datos malformados que podrían causar errores en el servidor o, en casos más graves, una inyección de código.
